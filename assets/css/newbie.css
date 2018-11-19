@@ -1,0 +1,12 @@
+html{
+	font-size: 14px;
+}
+.headers{
+	background: #888888;
+	padding: 5em;
+	margin: 1em 2em 4em 3em;
+}
+
+.main{
+	background-color: rgba(66, 170, 244,1);
+}
